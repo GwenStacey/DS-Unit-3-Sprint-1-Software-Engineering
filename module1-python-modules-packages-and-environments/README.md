@@ -1,7 +1,7 @@
 # Python Modules, Packages, and Environments
 
 Places for your code (and dependencies) to live.
-
+#Testing something with a quick change
 ## Learning Objectives
 
 - Understand and follow Python namespaces and imports
